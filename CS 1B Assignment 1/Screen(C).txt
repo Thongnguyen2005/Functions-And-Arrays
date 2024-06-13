@@ -1,0 +1,77 @@
+******************************************************
+* PROGRAMMED BY : Thong Nguyen
+* CLASS         : CS1B
+* SECTION       : M T W TH: 5pm
+* ASSIGNMENT #1 : Functions and Arrays
+******************************************************
+
+What input file would you like to use?  InFile.txt
+What output file would you like to use? OFile.txt
+
+MENU OPTIONS
+
+1 - Find the larger balance
+2 - Find the smaller balance
+3 - Obtain the sum of all balances
+4 - Obtain the average of all balances
+5 - Find person
+0 - Exit
+Enter an option (0 to exit): 1
+
+Finding the larger balance...
+
+<redisplay menu>
+Enter an option (0 to exit): 2
+
+Finding the smaller balance...
+
+<redisplay menu>
+Enter an option (0 to exit): 3
+
+Obtaining the sum of all balances...
+
+<redisplay menu>
+Enter an option (0 to exit): 4
+
+Obtaining the average of all balances...
+
+<redisplay menu>
+Enter an option (0 to exit): 5
+
+Who do you want to search for (enter done to exist): Steve Woolston
+Found.
+
+<redisplay menu>
+Enter an option (0 to exit): 5
+
+Who do you want to search for (enter done to exist): Jacques Rousseau
+Jacques Rousseau was not found.
+
+<redisplay menu>
+Enter an option (0 to exit): 5
+
+Who do you want to search for (enter done to exist): Chris Carroll
+Found.
+
+<redisplay menu>
+Enter an option (0 to exit): 5
+
+Who do you want to search for (enter done to exist): Pete McBride
+Found.
+
+<redisplay menu>
+Enter an option (0 to exit): 5
+
+Who do you want to search for (enter done to exist): Jean Rousseau
+Found.
+
+<redisplay menu>
+Enter an option (0 to exit): 5
+
+Who do you want to search for (enter done to exist): Florence Cyr
+Florence Cyr was not found.
+
+<redisplay menu>
+Enter an option (0 to exit): 0
+
+Thank you for using my program.
